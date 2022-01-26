@@ -1,5 +1,7 @@
 ![void programmer (1)](https://user-images.githubusercontent.com/58516376/151172600-a606d8ef-1710-4886-95b0-d28c5d22e804.png) 
-
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
 
 HI THERE👋 , I AM MANISH!,
 
@@ -14,12 +16,7 @@ Technical Skills-
 [![Manish’s github stats](https://github-readme-stats.vercel.app/api?username=ms471841&show_icons=true&theme=radical)](https://github.com/ms471841)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms471841&layout=compact)](https://github.com/ms471841/github-readme-stats)
 <!--- - 📫 How to reach me ... --->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 <!---
 i don't know is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
