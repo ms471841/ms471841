@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://https://samash471841.blogspot.com//" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/58516376/151172600-a606d8ef-1710-4886-95b0-d28c5d22e804.png" alt="my banner"></a>
 </p>
-
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
 HI THERE👋 , I AM MANISH!,
 
 
