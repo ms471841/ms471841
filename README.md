@@ -9,7 +9,7 @@ HI THERE👋 , I AM MANISH!,
 - 🌱 I’m currently learning flutter and python
 - 💞️ I’m looking to collaborate on open source contributions 
 - 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 
