@@ -1,7 +1,16 @@
 <!--![void programmer (1)](https://user-images.githubusercontent.com/58516376/151172600-a606d8ef-1710-4886-95b0-d28c5d22e804.png) --->
+<html>
+  <head>
+  </head>
+  <style>
+    
 <p align=”center”>
-<img width=”200" height=”200" src=”![void programmer (1)](https://user-images.githubusercontent.com/58516376/151172600-a606d8ef-1710-4886-95b0-d28c5d22e804.png)" alt=”my banner”>
+<img width=”200" height=”200" src=”![void programmer (1)](https://user-images.githubusercontent.com/58516376/151172600-a606d8ef-1710-4886-95b0-d28c5d22e804.png)" >
 </p>
+</style>
+<body>
+</body>
+</html>
 HI THERE👋 , I AM MANISH!,
 
 
