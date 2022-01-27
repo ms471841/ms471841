@@ -5,7 +5,9 @@
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Manish</a> 👋
 </h3>
 
-
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
 - 👋 Hi, I’m @Manish saini
 - 👀 I’m interested in coding
