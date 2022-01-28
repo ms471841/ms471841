@@ -21,6 +21,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms471841&layout=compact)](https://github.com/ms471841/github-readme-stats)
 
+https://starchart.cc/{ms471841}/{repo}.svg
 <br><br>
 ## 🤝📫 Connect with me:
 
@@ -28,7 +29,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 <br>
 <a href="https://instagram.com/void.programmer.0"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="void programmer | Instagram" width="21px"/></a> Instagram
 <br>
-	https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <!---
