@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://https://samash471841.blogspot.com//" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/58516376/151564805-bb9bdb81-e6d1-4680-b60e-de85df79d18c.png" alt="my banner"></a>
+  <a href="https://https:/samash471841.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/58516376/151564805-bb9bdb81-e6d1-4680-b60e-de85df79d18c.png" alt="my banner"></a>
 </p>
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Manish</a> 👋
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Manish</a> 👋
 </h3>
 
 <h2 align="center">
