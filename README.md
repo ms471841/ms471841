@@ -21,7 +21,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms471841&layout=compact)](https://github.com/ms471841/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms471841&layout=compact)](https://starchart.cc/{ms471841}/{repo}.svg)
+
 <br><br>
 ## 🤝📫 Connect with me:
 
