@@ -7,7 +7,7 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Manish</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Flutter Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Flutter Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
 - 👀 I’m interested in coding
